@@ -1,0 +1,31 @@
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Cabin:wght@400;700&family=Lobster&display=swap');
+
+/* CSS */
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Cabin', sans-serif;
+}
+
+.bg-navbar-propio {
+    background-color: #373a3c;
+}
+
+.lobster-font {
+    font-family: 'Lobster', cursive;
+    font-size: 3.5rem;
+    color: #FFFFFF;
+}
+
+
+.cabin-font-white-nav {
+  font-family: 'cabin', cursive;
+  font-size: 1.2rem;
+  color: #FFFFFF;
+}
+
+.cabin-font-black {
+  font-family: 'cabin', cursive;
+  color: #373a3c;
+}
